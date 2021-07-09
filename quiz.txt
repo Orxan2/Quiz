@@ -1,10 +1,10 @@
-1.-xeta
+1.-xeta(let ile bir deyiseni 2 defe teyin etmek olmaz)
 2.-undefined
 3.-1
 4.-a
-5.-
+5.- (hec ne cixmayacaq)
 6.-object
 7.-2
 8.-hello
-9.-xeta
+9.-xeta(parametr gonderilmeyib)
 10.Bmw
